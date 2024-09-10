@@ -1,6 +1,6 @@
 # Bài thi ảo ICPC - OLP 2024 VKU https://oj.vku.udn.vn/contest/olp24entry
 
-Đây là bài thi ảo của mình trong kỳ thi sơ tuyển đội tuyển ICPC - OLP năm 2024 tại trường VKU.
+Đây là lời giải của bài thi ảo của mình trong kỳ thi sơ tuyển đội tuyển ICPC - OLP năm 2024 tại trường VKU.
 
 ## Kết quả
 
