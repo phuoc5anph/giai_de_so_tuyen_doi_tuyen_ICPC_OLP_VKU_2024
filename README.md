@@ -11,5 +11,5 @@
 
 ## Hỗ trợ từ ChatGPT
 
-Trong quá trình làm bài thi, ChatGPT đã giúp mình giải quyết được nhanh các vấn đề cơ bản liên quan đến lập trình C, C++, và Python.
+Trong quá trình làm bài thi, ChatGPT đã giúp mình giải quyết được nhanh các vấn đề cơ bản, chuyển các ý tưởng của mình sang code C, C++, và Python.
 
